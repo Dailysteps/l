@@ -156,6 +156,7 @@ table {
 	position: fixed;
 	overflow-wrap: anywhere;
 	padding:3%;
+	video-background-image: url("https://iili.io/J4TpCib.gif");
 }
 
 .playButton {
