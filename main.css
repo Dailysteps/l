@@ -172,6 +172,7 @@ table {
 	background-repeat: no-repeat;
 	border: #bbb 3vh solid;
 	position: absolute;
+	
 }
 
 #bigPlayButton>.playButton {
@@ -183,6 +184,7 @@ table {
 	position: unset;
 	position: static;
 	background-image: url("https://iili.io/J4TpCib.gif");
+	video-background-image: url("https://iili.io/JJoreB2.gif")
 }
 .paused {
 	cursor: pointer;
