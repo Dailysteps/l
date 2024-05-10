@@ -1549,6 +1549,7 @@ body {
 	flex-direction: column;
 	position: fixed;
 	background-image: url("https://iili.io/J4TpCib.gif");
+	background-size: 100%;
 }
 body.darktheme{
 	background-color: var(--dark-background-color);
