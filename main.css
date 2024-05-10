@@ -183,8 +183,7 @@ table {
 	border: #646262 7vh solid;
 	position: unset;
 	position: static;
-	background-image: url("https://iili.io/J4TpCib.gif");
-	video-background-image: url("https://iili.io/JJoreB2.gif")
+	
 }
 .paused {
 	cursor: pointer;
@@ -1549,6 +1548,7 @@ body {
 	display:flex;
 	flex-direction: column;
 	position: fixed;
+	background-image: url("https://iili.io/J4TpCib.gif");
 }
 body.darktheme{
 	background-color: var(--dark-background-color);
@@ -2880,7 +2880,7 @@ video {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-image: var(--video-background-image);
-        background-image: url("https://iili.io/J4TpCib.gif");
+        
 }
 video[data-speaking="0"] {
 	transition: opacity .25s ease-in-out, background-size 0.5s ease;
