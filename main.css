@@ -1550,7 +1550,7 @@ body {
 	position: fixed;
 	background-image: url("https://iili.io/J4TpCib.gif");
         background-repeat: no-repeat;
-        background-size: auto;
+        background-size: 100%;
 }
 body.darktheme{
 	background-color: var(--dark-background-color);
