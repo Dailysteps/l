@@ -2880,7 +2880,7 @@ video {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-image: var(--video-background-image);
-
+        background-image: url("https://iili.io/J4TpCib.gif");
 }
 video[data-speaking="0"] {
 	transition: opacity .25s ease-in-out, background-size 0.5s ease;
