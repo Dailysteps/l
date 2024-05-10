@@ -1490,7 +1490,7 @@ button.btnArmTransferRoom.selected{
 	animation: spin-animation 3s infinite linear, fadeIn 5s;
 	margin: 44vh auto;
 	cursor: help;
-	background-image: url("https://iili.io/J4DiHiB.png");
+	
 }
 #retryimage{
 	display: block;
