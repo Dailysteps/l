@@ -2426,7 +2426,7 @@ span[data-action-type="stats-graphs-details-container"]>span{
 	-webkit-transition: background-image 0.3s ease-in-out;
 	background-position: 50% 65%;
 	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='347.184' height='187.007' viewBox='0 0 91.859 49.479' fill='none' stroke='%23000' stroke-width='5' stroke-linejoin='round' xmlns:v='https://vecta.io/nano'%3E%3Cpath d='M3.15 3.15h65.569v43.179H3.15z' stroke-dashoffset='22.7149601' paint-order='markers fill stroke'/%3E%3Cpath d='M68.919 28.837L88.709 44.73V7.148L69.019 22.341z'/%3E%3C/svg%3E");
-	
+	background-color: #ff6500;
             border-top: 1px solid white;
             border-left: 1px solid white;
             box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
