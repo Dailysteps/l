@@ -5182,7 +5182,7 @@ input[type='checkbox'], input[type='radio'] {
 }
 
 .darktheme .card {
-	background-color: var(orange);
+	background-color: var(--discord-grey-7);
 }
 
 .card {
